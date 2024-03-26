@@ -4592,7 +4592,7 @@
     (property "ki_description" "Solder Jumper, 2-pole, closed/bridged")
     (property "ki_keywords" "solder jumper SPST")
     (path "/735769e3-f14f-4e8a-9529-8bcb707488e0")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (net_tie_pad_groups "1, 2")
     (fp_text reference "JP2" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -5617,7 +5617,7 @@
     (property "ki_description" "Solder Jumper, 2-pole, open")
     (property "ki_keywords" "solder jumper SPST")
     (path "/03325c16-3fe3-44b6-be29-899cda5a245b")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP1" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be52cea1-483a-4c94-b7a1-a431baf40dc3)
@@ -6410,6 +6410,9 @@
   )
   (gr_text "GPIO3" (at 82.2198 112.4966 90) (layer "B.SilkS") (tstamp bdf0ac81-1c1e-4af8-873f-91ee9e9556d4)
     (effects (font (size 1 1) (thickness 0.17) bold) (justify left bottom mirror))
+  )
+  (gr_text "GIZ CGR" (at 99.06 81.026 90) (layer "B.SilkS") (tstamp f93360ee-e500-49bd-a104-36d9132eea78)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
   )
   (gr_text "GND" (at 91.186 112.522 270) (layer "F.SilkS") (tstamp 1712e0be-cd33-4633-a159-a15feed14165)
     (effects (font (size 1 1) (thickness 0.17) bold) (justify left bottom))
