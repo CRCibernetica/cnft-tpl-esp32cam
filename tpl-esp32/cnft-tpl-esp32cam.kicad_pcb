@@ -186,7 +186,7 @@
 		(path "/121b48b4-a5e0-4a55-b9fb-a41096dbc219")
 		(sheetname "Root")
 		(sheetfile "cnft-tpl-esp32cam.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.33 3.87)
 			(end 1.33 3.87)
@@ -3870,7 +3870,7 @@
 		(path "/735769e3-f14f-4e8a-9529-8bcb707488e0")
 		(sheetname "Root")
 		(sheetfile "cnft-tpl-esp32cam.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(net_tie_pad_groups "1, 2")
 		(fp_poly
 			(pts
@@ -5044,7 +5044,7 @@
 		(path "/03325c16-3fe3-44b6-be29-899cda5a245b")
 		(sheetname "Root")
 		(sheetfile "cnft-tpl-esp32cam.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.7 -1)
 			(end 0.7 -1)
