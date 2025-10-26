@@ -4,8 +4,9 @@ C2,47uF,CP_Elec_5x5.4,26.3906,41.5192,-90.0,top
 D1,LED,LED_0603_1608Metric,26.3905,31.75,0.0,top
 J1,Conn_01x08,PinSocket_1x08_P2.54mm_Vertical,26.98,17.77,180.0,top
 J2,Conn_01x08,PinSocket_1x08_P2.54mm_Vertical,4.1148,17.77,180.0,top
+J3,Conn_01x02,JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical,5.0474,41.0315,90.0,top
 R1,1M,R_0805_2012Metric,18.225,44.3738,180.0,top
 R2,1k,R_0805_2012Metric,26.353,29.7434,0.0,top
-RV1,200k,Potentiometer_Bourns_3314G_Vertical,4.8006,32.6644,90.0,top
+RV1,200k,Potentiometer_Bourns_3314J_Vertical,4.191,32.5628,90.0,top
 U1,TPL5110,TSOT-23-6,18.034,40.9139,90.0,top
 U2,DMG3415,SOT-23,12.258,37.6705,-90.0,top

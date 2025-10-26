@@ -5509,7 +5509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical"
 			(at 68.58 81.28 0)
 			(effects
 				(font
